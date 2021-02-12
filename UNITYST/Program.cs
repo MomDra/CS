@@ -2,9 +2,9 @@
 
 class Player
 {
-    private int ATT; // 전체 공개
-    private int HP; // 자식에게만 공개
-    private int LV; // 클래스 내부에만 공개
+    private int ATT;
+    private int HP;
+    private int LV;
 
     public void Fight()
     {
@@ -46,6 +46,12 @@ class Player
         return HP;
     }
 
+    public int Test(int num)
+    {
+        num = 1000;
+        return num;
+    }
+
 }
 
 namespace UNITYST
@@ -55,13 +61,18 @@ namespace UNITYST
         static void Main(string[] args)
         {
             Player newPlayer = new Player();
-
+            /*
             newPlayer.LVUP();
             newPlayer.Damage1(10);
             newPlayer.Damage2(10, 20);
 
             Console.WriteLine(newPlayer.getLV());
-            Console.WriteLine(newPlayer.DamageToHPReturn(20));
+            Console.WriteLine(newPlayer.DamageToHPReturn(20));*/
+
+            int value = 100;
+            
+            value = newPlayer.Test(value); // 값형의 처리
+            Console.WriteLine(value);
         }
     }
 }
