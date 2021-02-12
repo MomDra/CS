@@ -1,0 +1,13 @@
+C:\Users\Huiyong\source\repos\UNITYST\UNITYST\bin\Debug\netcoreapp3.1\UNITYST.exe
+C:\Users\Huiyong\source\repos\UNITYST\UNITYST\bin\Debug\netcoreapp3.1\UNITYST.deps.json
+C:\Users\Huiyong\source\repos\UNITYST\UNITYST\bin\Debug\netcoreapp3.1\UNITYST.runtimeconfig.json
+C:\Users\Huiyong\source\repos\UNITYST\UNITYST\bin\Debug\netcoreapp3.1\UNITYST.runtimeconfig.dev.json
+C:\Users\Huiyong\source\repos\UNITYST\UNITYST\bin\Debug\netcoreapp3.1\UNITYST.dll
+C:\Users\Huiyong\source\repos\UNITYST\UNITYST\bin\Debug\netcoreapp3.1\UNITYST.pdb
+C:\Users\Huiyong\source\repos\UNITYST\UNITYST\obj\Debug\netcoreapp3.1\UNITYST.csprojAssemblyReference.cache
+C:\Users\Huiyong\source\repos\UNITYST\UNITYST\obj\Debug\netcoreapp3.1\UNITYST.AssemblyInfoInputs.cache
+C:\Users\Huiyong\source\repos\UNITYST\UNITYST\obj\Debug\netcoreapp3.1\UNITYST.AssemblyInfo.cs
+C:\Users\Huiyong\source\repos\UNITYST\UNITYST\obj\Debug\netcoreapp3.1\UNITYST.csproj.CoreCompileInputs.cache
+C:\Users\Huiyong\source\repos\UNITYST\UNITYST\obj\Debug\netcoreapp3.1\UNITYST.dll
+C:\Users\Huiyong\source\repos\UNITYST\UNITYST\obj\Debug\netcoreapp3.1\UNITYST.pdb
+C:\Users\Huiyong\source\repos\UNITYST\UNITYST\obj\Debug\netcoreapp3.1\UNITYST.genruntimeconfig.cache
