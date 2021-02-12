@@ -2,49 +2,9 @@
 
 class Player
 {
-    private int ATT;
-    public int HP = 100;
-    private int LV;
+    public static int playercount = 0;
 
-    public void Fight()
-    {
-        Console.WriteLine("싸운다.");
-    }
-
-    public void setHp(int _HP)
-    {
-        HP = _HP;
-    }
-
-    public void LVUP()
-    {
-        ATT = 100;
-        HP = 1000;
-        LV++;
-    }
-
-    public int getLV()
-    {
-        return LV;
-    }
-
-    public void Damage1(int _Dmg)
-    {
-        HP -= _Dmg;
-    }
-
-    public void Damage2(int _Dmg, int _SubDmg)
-    {
-        HP -= _Dmg;
-        HP -= _SubDmg;
-    }
-
-    public int DamageToHPReturn(int _Dmg)
-    {
-        HP -= _Dmg;
-
-        return HP;
-    }
+    
 
     public int Test(int num)
     {
@@ -56,27 +16,22 @@ class Player
 
 }
 
-class Monster
-{
-    public int ATT = 10;
-
-    public void Attack(Player _player)
-    {
-        _player.HP -= ATT;
-    }
-}
-
 namespace UNITYST
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Player newPlayer = new Player();
-            Monster newMonster = new Monster();
+            Player newPlayer1 = new Player();
+            Player.playercount += 1;
+            Player newPlayer2 = new Player();
+            Player.playercount += 1;
+            Player newPlayer3 = new Player();
+            Player.playercount += 1;
 
-            newMonster.Attack(newPlayer);
-            Console.WriteLine(newPlayer.HP);
+            Console.WriteLine(Player.playercount);
+
+            // newPlayer1.playercount 객체를 이용해 static 멤버 접근 불가
         }
     }
 }
