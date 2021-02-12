@@ -3,7 +3,7 @@
 class Player
 {
     private int ATT;
-    private int HP;
+    public int HP = 100;
     private int LV;
 
     public void Fight()
@@ -52,6 +52,18 @@ class Player
         return num;
     }
 
+    
+
+}
+
+class Monster
+{
+    public int ATT = 10;
+
+    public void Attack(Player _player)
+    {
+        _player.HP -= ATT;
+    }
 }
 
 namespace UNITYST
@@ -61,18 +73,10 @@ namespace UNITYST
         static void Main(string[] args)
         {
             Player newPlayer = new Player();
-            /*
-            newPlayer.LVUP();
-            newPlayer.Damage1(10);
-            newPlayer.Damage2(10, 20);
+            Monster newMonster = new Monster();
 
-            Console.WriteLine(newPlayer.getLV());
-            Console.WriteLine(newPlayer.DamageToHPReturn(20));*/
-
-            int value = 100;
-            
-            value = newPlayer.Test(value); // 값형의 처리
-            Console.WriteLine(value);
+            newMonster.Attack(newPlayer);
+            Console.WriteLine(newPlayer.HP);
         }
     }
 }
