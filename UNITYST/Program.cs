@@ -2,18 +2,20 @@
 
 class Player
 {
-    public static int playercount = 0;
+    private int HP = 100;
+    private int AT = 10;
 
-    
-
-    public int Test(int num)
+    public static void PVP(Player player1, Player player2)
     {
-        num = 1000;
-        return num;
+        // 자기 자신의 레퍼런스는 자신의 내부에서 모두 public인 상태
+        player1.HP -= player2.AT;
+        player2.HP -= player1.AT;
     }
 
-    
-
+    public void Damage(int _Dmg)
+    {
+        HP -= _Dmg;
+    }
 }
 
 namespace UNITYST
@@ -22,16 +24,11 @@ namespace UNITYST
     {
         static void Main(string[] args)
         {
-            Player newPlayer1 = new Player();
-            Player.playercount += 1;
-            Player newPlayer2 = new Player();
-            Player.playercount += 1;
-            Player newPlayer3 = new Player();
-            Player.playercount += 1;
+            Player player1 = new Player();
+            Player player2 = new Player();
 
-            Console.WriteLine(Player.playercount);
-
-            // newPlayer1.playercount 객체를 이용해 static 멤버 접근 불가
+            // 정적 맴버 함수는 클래스명.함수명()으로 호출한다.
+            Player.PVP(player1, player2);
         }
     }
 }
