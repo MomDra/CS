@@ -1,24 +1,17 @@
 ﻿using System;
 
-// 정적 클래스 정적 맴버변수,함수만을 가질 수 있는 클래스
-class Player
+struct Data // 구조체는 값타입
 {
-    int hp;
+    // int num = 10; 이런식으로 초기화 못함 자동으로 0으로 초기화
+    // static, const 필드는 초기화 가능
+    // 모든 필드를 초기화 하지 않는 생성자 정의 불가
+    public int num, num2;
+    
+}
 
-
-    // 맴버함수 인자에 this가 생략되어 있다.
-    public void Heal(/* Player this*/ int _heal)
-    {
-        // 맴버 함수에서 맴버 면수를 쓴다면 앞에 this.이 생략되어 있는 것
-        this.hp += _heal;
-    }
-
-    public static void Damage(int _dmg)
-    {
-        // 정적 멤버 함수에는 this 키워드가 없다.
-        // hp -= _dmg;
-    }
-
+enum Item // 열거형은 값타입
+{
+    POTION, GUN
 }
 
 namespace UNITYST
@@ -27,7 +20,15 @@ namespace UNITYST
     {
         static void Main(string[] args)
         {
-          
+            Data newData = new Data();
+            newData.num = 10;
+
+            Data newData2; // new 안써도 사용 가능
+            newData2.num = 10;
+
+            Item item = Item.GUN;
+
+            bool a = item == Item.GUN;
         }
     }
 }
