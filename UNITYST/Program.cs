@@ -1,21 +1,24 @@
 ﻿using System;
 
+// 정적 클래스 정적 맴버변수,함수만을 가질 수 있는 클래스
 class Player
 {
-    private int HP = 100;
-    private int AT = 10;
+    int hp;
 
-    public static void PVP(Player player1, Player player2)
+
+    // 맴버함수 인자에 this가 생략되어 있다.
+    public void Heal(/* Player this*/ int _heal)
     {
-        // 자기 자신의 레퍼런스는 자신의 내부에서 모두 public인 상태
-        player1.HP -= player2.AT;
-        player2.HP -= player1.AT;
+        // 맴버 함수에서 맴버 면수를 쓴다면 앞에 this.이 생략되어 있는 것
+        this.hp += _heal;
     }
 
-    public void Damage(int _Dmg)
+    public static void Damage(int _dmg)
     {
-        HP -= _Dmg;
+        // 정적 멤버 함수에는 this 키워드가 없다.
+        // hp -= _dmg;
     }
+
 }
 
 namespace UNITYST
@@ -24,11 +27,7 @@ namespace UNITYST
     {
         static void Main(string[] args)
         {
-            Player player1 = new Player();
-            Player player2 = new Player();
-
-            // 정적 맴버 함수는 클래스명.함수명()으로 호출한다.
-            Player.PVP(player1, player2);
+          
         }
     }
 }
