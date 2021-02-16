@@ -14,21 +14,35 @@ enum Item // 열거형은 값타입
     POTION, GUN
 }
 
+class A
+{
+    public virtual void abc()
+    {
+        Console.WriteLine("HELLO");
+    }
+}
+
+class B : A
+{
+     public override void abc()
+    {
+        Console.WriteLine("BYE");
+    }
+}
+
 namespace UNITYST
 {
     class Program
     {
+        delegate int Del(int a, int b);
+
         static void Main(string[] args)
         {
-            Data newData = new Data();
-            newData.num = 10;
+            A newA = new B();
+            newA.abc();
 
-            Data newData2; // new 안써도 사용 가능
-            newData2.num = 10;
-
-            Item item = Item.GUN;
-
-            bool a = item == Item.GUN;
+            B newB = new B();
+            newB.abc();
         }
     }
 }

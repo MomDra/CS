@@ -1,0 +1,13 @@
+C:\Users\Huiyong\source\repos\UNITYST\TextRpg\bin\Debug\netcoreapp3.1\TextRpg.exe
+C:\Users\Huiyong\source\repos\UNITYST\TextRpg\bin\Debug\netcoreapp3.1\TextRpg.deps.json
+C:\Users\Huiyong\source\repos\UNITYST\TextRpg\bin\Debug\netcoreapp3.1\TextRpg.runtimeconfig.json
+C:\Users\Huiyong\source\repos\UNITYST\TextRpg\bin\Debug\netcoreapp3.1\TextRpg.runtimeconfig.dev.json
+C:\Users\Huiyong\source\repos\UNITYST\TextRpg\bin\Debug\netcoreapp3.1\TextRpg.dll
+C:\Users\Huiyong\source\repos\UNITYST\TextRpg\bin\Debug\netcoreapp3.1\TextRpg.pdb
+C:\Users\Huiyong\source\repos\UNITYST\TextRpg\obj\Debug\netcoreapp3.1\TextRpg.csprojAssemblyReference.cache
+C:\Users\Huiyong\source\repos\UNITYST\TextRpg\obj\Debug\netcoreapp3.1\TextRpg.AssemblyInfoInputs.cache
+C:\Users\Huiyong\source\repos\UNITYST\TextRpg\obj\Debug\netcoreapp3.1\TextRpg.AssemblyInfo.cs
+C:\Users\Huiyong\source\repos\UNITYST\TextRpg\obj\Debug\netcoreapp3.1\TextRpg.csproj.CoreCompileInputs.cache
+C:\Users\Huiyong\source\repos\UNITYST\TextRpg\obj\Debug\netcoreapp3.1\TextRpg.dll
+C:\Users\Huiyong\source\repos\UNITYST\TextRpg\obj\Debug\netcoreapp3.1\TextRpg.pdb
+C:\Users\Huiyong\source\repos\UNITYST\TextRpg\obj\Debug\netcoreapp3.1\TextRpg.genruntimeconfig.cache
