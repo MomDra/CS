@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "24ClassConstructer/1.0.0": {
+        "runtime": {
+          "24ClassConstructer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "24ClassConstructer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

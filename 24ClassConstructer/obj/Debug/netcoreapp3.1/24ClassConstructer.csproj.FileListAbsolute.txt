@@ -1,0 +1,13 @@
+C:\Users\Huiyong\source\repos\UNITYST\24ClassConstructer\bin\Debug\netcoreapp3.1\24ClassConstructer.exe
+C:\Users\Huiyong\source\repos\UNITYST\24ClassConstructer\bin\Debug\netcoreapp3.1\24ClassConstructer.deps.json
+C:\Users\Huiyong\source\repos\UNITYST\24ClassConstructer\bin\Debug\netcoreapp3.1\24ClassConstructer.runtimeconfig.json
+C:\Users\Huiyong\source\repos\UNITYST\24ClassConstructer\bin\Debug\netcoreapp3.1\24ClassConstructer.runtimeconfig.dev.json
+C:\Users\Huiyong\source\repos\UNITYST\24ClassConstructer\bin\Debug\netcoreapp3.1\24ClassConstructer.dll
+C:\Users\Huiyong\source\repos\UNITYST\24ClassConstructer\bin\Debug\netcoreapp3.1\24ClassConstructer.pdb
+C:\Users\Huiyong\source\repos\UNITYST\24ClassConstructer\obj\Debug\netcoreapp3.1\24ClassConstructer.csprojAssemblyReference.cache
+C:\Users\Huiyong\source\repos\UNITYST\24ClassConstructer\obj\Debug\netcoreapp3.1\24ClassConstructer.AssemblyInfoInputs.cache
+C:\Users\Huiyong\source\repos\UNITYST\24ClassConstructer\obj\Debug\netcoreapp3.1\24ClassConstructer.AssemblyInfo.cs
+C:\Users\Huiyong\source\repos\UNITYST\24ClassConstructer\obj\Debug\netcoreapp3.1\24ClassConstructer.csproj.CoreCompileInputs.cache
+C:\Users\Huiyong\source\repos\UNITYST\24ClassConstructer\obj\Debug\netcoreapp3.1\24ClassConstructer.dll
+C:\Users\Huiyong\source\repos\UNITYST\24ClassConstructer\obj\Debug\netcoreapp3.1\24ClassConstructer.pdb
+C:\Users\Huiyong\source\repos\UNITYST\24ClassConstructer\obj\Debug\netcoreapp3.1\24ClassConstructer.genruntimeconfig.cache
