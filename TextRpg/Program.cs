@@ -2,24 +2,33 @@
 
 namespace TextRpg
 {
-    class Player
+    class FightUnit
     {
-        int AT = 10;
-        int HP = 50;
-        int MAXHP = 100;
+        protected string Name = "None";
+        protected int AT = 10;
+        protected int HP = 50;
+        protected int MAXHP = 100;
 
         public void StatusRender()
         {
             Console.WriteLine("-----------------");
+            Console.WriteLine(Name);
             Console.WriteLine("공격력: {0}", AT);
             Console.WriteLine("체력: {0}/{1}", HP, MAXHP);
             Console.WriteLine("-----------------");
         }
-
+    }
+    class Player : FightUnit
+    {
         public void MAXHeal()
         {
             HP = MAXHP;
         }
+    }
+
+    class Monster : FightUnit
+    {
+
     }
     enum STARTSELECT
     {
@@ -78,8 +87,14 @@ namespace TextRpg
 
         static void Battle(Player player)
         {
-            Console.WriteLine("아직 개장하지 않았습니다.");
-            Console.ReadKey();
+            Monster newMonster = new Monster();
+            while (true)
+            {
+                Console.Clear();
+                player.StatusRender();
+                newMonster.StatusRender();
+                Console.ReadKey();
+            }
         }
 
         static void Main(string[] args)
