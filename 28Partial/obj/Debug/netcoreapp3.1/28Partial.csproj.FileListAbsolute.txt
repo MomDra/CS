@@ -1,0 +1,12 @@
+C:\Users\Huiyong\source\repos\UNITYST\28Partial\bin\Debug\netcoreapp3.1\28Partial.exe
+C:\Users\Huiyong\source\repos\UNITYST\28Partial\bin\Debug\netcoreapp3.1\28Partial.deps.json
+C:\Users\Huiyong\source\repos\UNITYST\28Partial\bin\Debug\netcoreapp3.1\28Partial.runtimeconfig.json
+C:\Users\Huiyong\source\repos\UNITYST\28Partial\bin\Debug\netcoreapp3.1\28Partial.runtimeconfig.dev.json
+C:\Users\Huiyong\source\repos\UNITYST\28Partial\bin\Debug\netcoreapp3.1\28Partial.dll
+C:\Users\Huiyong\source\repos\UNITYST\28Partial\bin\Debug\netcoreapp3.1\28Partial.pdb
+C:\Users\Huiyong\source\repos\UNITYST\28Partial\obj\Debug\netcoreapp3.1\28Partial.AssemblyInfoInputs.cache
+C:\Users\Huiyong\source\repos\UNITYST\28Partial\obj\Debug\netcoreapp3.1\28Partial.AssemblyInfo.cs
+C:\Users\Huiyong\source\repos\UNITYST\28Partial\obj\Debug\netcoreapp3.1\28Partial.csproj.CoreCompileInputs.cache
+C:\Users\Huiyong\source\repos\UNITYST\28Partial\obj\Debug\netcoreapp3.1\28Partial.dll
+C:\Users\Huiyong\source\repos\UNITYST\28Partial\obj\Debug\netcoreapp3.1\28Partial.pdb
+C:\Users\Huiyong\source\repos\UNITYST\28Partial\obj\Debug\netcoreapp3.1\28Partial.genruntimeconfig.cache

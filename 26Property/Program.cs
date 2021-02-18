@@ -11,13 +11,18 @@ namespace _26Property
             set => HP = value;
             
         }
+
+        public Player(int h)
+        {
+            ProHP = h;
+        }
     }
 
     class Program
     {
         static void Main(string[] args)
         {
-            Player player= new Player();
+            Player player= new Player(6);
 
             player.ProHP = 5;
 
