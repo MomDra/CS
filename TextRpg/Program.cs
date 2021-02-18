@@ -2,65 +2,6 @@
 
 namespace TextRpg
 {
-    class FightUnit
-    {
-        protected string Name = "None";
-        protected int AT = 10;
-        protected int HP = 50;
-        protected int MAXHP = 100;
-
-        public void StatusRender()
-        {
-            Console.WriteLine("-----------------");
-            Console.WriteLine(Name);
-            Console.WriteLine("공격력: {0}", AT);
-            Console.WriteLine("체력: {0}/{1}", HP, MAXHP);
-            Console.WriteLine("-----------------");
-        }
-
-        public bool Fight(FightUnit other)
-        {
-            other.HP -= AT;
-            
-            if(other.HP <= 0)
-            {
-                other.HP = 0;
-                return true;
-            }
-
-            return false;
-        }
-
-        public int getAT()
-        {
-            return AT;
-        }
-    }
-    class Player : FightUnit
-    {
-        public void MAXHeal()
-        {
-            HP = MAXHP;
-        }
-
-        public Player()
-        {
-            Name = "플레이어";
-            HP = 100;
-        }
-    }
-
-    class Monster : FightUnit
-    {
-        public Monster()
-        {
-            Name = "몬스터";
-        }
-    }
-    enum STARTSELECT
-    {
-        SELECTTOWN, SELECTBATTLE, NONESELECT
-    }
     class Program
     {
         static STARTSELECT StartSelect()
@@ -146,7 +87,7 @@ namespace TextRpg
                     Console.Clear();
                     player.StatusRender();
                     newMonster.StatusRender();
-                    Console.WriteLine("플레이어가 몬스터를 때려 {0}만큼 대미지를 입혔습니다.", player.getAT());
+                    Console.WriteLine("플레이어가 몬스터를 때려 {0}만큼 대미지를 입혔습니다.", player.ProAT);
                     Console.ReadKey();
                     Playerturn = false;
                 }
@@ -156,7 +97,7 @@ namespace TextRpg
                     Console.Clear();
                     player.StatusRender();
                     newMonster.StatusRender();
-                    Console.WriteLine("몬스터가 플레이어를 때려 {0}만큼 대미지를 입혔습니다.", newMonster.getAT());
+                    Console.WriteLine("몬스터가 플레이어를 때려 {0}만큼 대미지를 입혔습니다.", newMonster.ProAT);
                     Console.ReadKey();
                     Playerturn = true;
                 } 

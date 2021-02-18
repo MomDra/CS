@@ -5,11 +5,13 @@ VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UNITYST", "UNITYST\UNITYST.csproj", "{9B008CA5-A6E1-4EC0-A150-E7836D156CA7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextRpg", "TextRpg\TextRpg.csproj", "{D784A38C-6110-4494-B523-87CA7A74F61B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TextRpg", "TextRpg\TextRpg.csproj", "{D784A38C-6110-4494-B523-87CA7A74F61B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "23Inheritance", "23Inheritance\23Inheritance.csproj", "{43259530-1F21-44E1-B6F8-DB0C7E56AC1C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "23Inheritance", "23Inheritance\23Inheritance.csproj", "{43259530-1F21-44E1-B6F8-DB0C7E56AC1C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "24ClassConstructer", "24ClassConstructer\24ClassConstructer.csproj", "{55B28722-CEA3-4E96-9FA4-52FA96155F88}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "24ClassConstructer", "24ClassConstructer\24ClassConstructer.csproj", "{55B28722-CEA3-4E96-9FA4-52FA96155F88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "26Property", "26Property\26Property.csproj", "{184511D2-CE3D-4B5A-9E19-C33F5CCE8687}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{55B28722-CEA3-4E96-9FA4-52FA96155F88}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{55B28722-CEA3-4E96-9FA4-52FA96155F88}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{55B28722-CEA3-4E96-9FA4-52FA96155F88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{184511D2-CE3D-4B5A-9E19-C33F5CCE8687}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{184511D2-CE3D-4B5A-9E19-C33F5CCE8687}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{184511D2-CE3D-4B5A-9E19-C33F5CCE8687}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{184511D2-CE3D-4B5A-9E19-C33F5CCE8687}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

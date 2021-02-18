@@ -1,0 +1,12 @@
+C:\Users\Huiyong\source\repos\UNITYST\26Property\bin\Debug\netcoreapp3.1\26Property.exe
+C:\Users\Huiyong\source\repos\UNITYST\26Property\bin\Debug\netcoreapp3.1\26Property.deps.json
+C:\Users\Huiyong\source\repos\UNITYST\26Property\bin\Debug\netcoreapp3.1\26Property.runtimeconfig.json
+C:\Users\Huiyong\source\repos\UNITYST\26Property\bin\Debug\netcoreapp3.1\26Property.runtimeconfig.dev.json
+C:\Users\Huiyong\source\repos\UNITYST\26Property\bin\Debug\netcoreapp3.1\26Property.dll
+C:\Users\Huiyong\source\repos\UNITYST\26Property\bin\Debug\netcoreapp3.1\26Property.pdb
+C:\Users\Huiyong\source\repos\UNITYST\26Property\obj\Debug\netcoreapp3.1\26Property.AssemblyInfoInputs.cache
+C:\Users\Huiyong\source\repos\UNITYST\26Property\obj\Debug\netcoreapp3.1\26Property.AssemblyInfo.cs
+C:\Users\Huiyong\source\repos\UNITYST\26Property\obj\Debug\netcoreapp3.1\26Property.csproj.CoreCompileInputs.cache
+C:\Users\Huiyong\source\repos\UNITYST\26Property\obj\Debug\netcoreapp3.1\26Property.dll
+C:\Users\Huiyong\source\repos\UNITYST\26Property\obj\Debug\netcoreapp3.1\26Property.pdb
+C:\Users\Huiyong\source\repos\UNITYST\26Property\obj\Debug\netcoreapp3.1\26Property.genruntimeconfig.cache
