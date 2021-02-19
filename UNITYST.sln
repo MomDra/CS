@@ -11,9 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "23Inheritance", "23Inherita
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "24ClassConstructer", "24ClassConstructer\24ClassConstructer.csproj", "{55B28722-CEA3-4E96-9FA4-52FA96155F88}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "26Property", "26Property\26Property.csproj", "{184511D2-CE3D-4B5A-9E19-C33F5CCE8687}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "26Property", "26Property\26Property.csproj", "{184511D2-CE3D-4B5A-9E19-C33F5CCE8687}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "28Partial", "28Partial\28Partial.csproj", "{4763AA09-09AA-4884-B993-C9D391178DF2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "28Partial", "28Partial\28Partial.csproj", "{4763AA09-09AA-4884-B993-C9D391178DF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "30Overriding", "30Overriding\30Overriding.csproj", "{BB9176F3-C828-4131-BB34-19F610868775}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{4763AA09-09AA-4884-B993-C9D391178DF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4763AA09-09AA-4884-B993-C9D391178DF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4763AA09-09AA-4884-B993-C9D391178DF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB9176F3-C828-4131-BB34-19F610868775}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB9176F3-C828-4131-BB34-19F610868775}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB9176F3-C828-4131-BB34-19F610868775}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB9176F3-C828-4131-BB34-19F610868775}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

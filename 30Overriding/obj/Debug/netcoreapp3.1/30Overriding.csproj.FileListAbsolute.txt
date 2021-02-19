@@ -1,0 +1,12 @@
+C:\Users\Huiyong\source\repos\UNITYST\30Overriding\bin\Debug\netcoreapp3.1\30Overriding.exe
+C:\Users\Huiyong\source\repos\UNITYST\30Overriding\bin\Debug\netcoreapp3.1\30Overriding.deps.json
+C:\Users\Huiyong\source\repos\UNITYST\30Overriding\bin\Debug\netcoreapp3.1\30Overriding.runtimeconfig.json
+C:\Users\Huiyong\source\repos\UNITYST\30Overriding\bin\Debug\netcoreapp3.1\30Overriding.runtimeconfig.dev.json
+C:\Users\Huiyong\source\repos\UNITYST\30Overriding\bin\Debug\netcoreapp3.1\30Overriding.dll
+C:\Users\Huiyong\source\repos\UNITYST\30Overriding\bin\Debug\netcoreapp3.1\30Overriding.pdb
+C:\Users\Huiyong\source\repos\UNITYST\30Overriding\obj\Debug\netcoreapp3.1\30Overriding.AssemblyInfoInputs.cache
+C:\Users\Huiyong\source\repos\UNITYST\30Overriding\obj\Debug\netcoreapp3.1\30Overriding.AssemblyInfo.cs
+C:\Users\Huiyong\source\repos\UNITYST\30Overriding\obj\Debug\netcoreapp3.1\30Overriding.csproj.CoreCompileInputs.cache
+C:\Users\Huiyong\source\repos\UNITYST\30Overriding\obj\Debug\netcoreapp3.1\30Overriding.dll
+C:\Users\Huiyong\source\repos\UNITYST\30Overriding\obj\Debug\netcoreapp3.1\30Overriding.pdb
+C:\Users\Huiyong\source\repos\UNITYST\30Overriding\obj\Debug\netcoreapp3.1\30Overriding.genruntimeconfig.cache
