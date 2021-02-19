@@ -1,0 +1,13 @@
+C:\Users\Huiyong\source\repos\UNITYST\31Interface\bin\Debug\netcoreapp3.1\31Interface.exe
+C:\Users\Huiyong\source\repos\UNITYST\31Interface\bin\Debug\netcoreapp3.1\31Interface.deps.json
+C:\Users\Huiyong\source\repos\UNITYST\31Interface\bin\Debug\netcoreapp3.1\31Interface.runtimeconfig.json
+C:\Users\Huiyong\source\repos\UNITYST\31Interface\bin\Debug\netcoreapp3.1\31Interface.runtimeconfig.dev.json
+C:\Users\Huiyong\source\repos\UNITYST\31Interface\bin\Debug\netcoreapp3.1\31Interface.dll
+C:\Users\Huiyong\source\repos\UNITYST\31Interface\bin\Debug\netcoreapp3.1\31Interface.pdb
+C:\Users\Huiyong\source\repos\UNITYST\31Interface\obj\Debug\netcoreapp3.1\31Interface.csprojAssemblyReference.cache
+C:\Users\Huiyong\source\repos\UNITYST\31Interface\obj\Debug\netcoreapp3.1\31Interface.AssemblyInfoInputs.cache
+C:\Users\Huiyong\source\repos\UNITYST\31Interface\obj\Debug\netcoreapp3.1\31Interface.AssemblyInfo.cs
+C:\Users\Huiyong\source\repos\UNITYST\31Interface\obj\Debug\netcoreapp3.1\31Interface.csproj.CoreCompileInputs.cache
+C:\Users\Huiyong\source\repos\UNITYST\31Interface\obj\Debug\netcoreapp3.1\31Interface.dll
+C:\Users\Huiyong\source\repos\UNITYST\31Interface\obj\Debug\netcoreapp3.1\31Interface.pdb
+C:\Users\Huiyong\source\repos\UNITYST\31Interface\obj\Debug\netcoreapp3.1\31Interface.genruntimeconfig.cache
