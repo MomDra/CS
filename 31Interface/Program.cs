@@ -37,8 +37,6 @@ namespace _31Interface
             QuestUnit qu2 = npc;
 
             qu1.Talk(qu2);
-            
-
             qu2.Talk(qu1);
             player.Talk(qu2);
             npc.Talk(qu1);

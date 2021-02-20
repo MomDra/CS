@@ -1,0 +1,13 @@
+C:\Users\Huiyong\source\repos\UNITYST\InvenSystem\bin\Debug\netcoreapp3.1\InvenSystem.exe
+C:\Users\Huiyong\source\repos\UNITYST\InvenSystem\bin\Debug\netcoreapp3.1\InvenSystem.deps.json
+C:\Users\Huiyong\source\repos\UNITYST\InvenSystem\bin\Debug\netcoreapp3.1\InvenSystem.runtimeconfig.json
+C:\Users\Huiyong\source\repos\UNITYST\InvenSystem\bin\Debug\netcoreapp3.1\InvenSystem.runtimeconfig.dev.json
+C:\Users\Huiyong\source\repos\UNITYST\InvenSystem\bin\Debug\netcoreapp3.1\InvenSystem.dll
+C:\Users\Huiyong\source\repos\UNITYST\InvenSystem\bin\Debug\netcoreapp3.1\InvenSystem.pdb
+C:\Users\Huiyong\source\repos\UNITYST\InvenSystem\obj\Debug\netcoreapp3.1\InvenSystem.AssemblyInfoInputs.cache
+C:\Users\Huiyong\source\repos\UNITYST\InvenSystem\obj\Debug\netcoreapp3.1\InvenSystem.AssemblyInfo.cs
+C:\Users\Huiyong\source\repos\UNITYST\InvenSystem\obj\Debug\netcoreapp3.1\InvenSystem.csproj.CoreCompileInputs.cache
+C:\Users\Huiyong\source\repos\UNITYST\InvenSystem\obj\Debug\netcoreapp3.1\InvenSystem.dll
+C:\Users\Huiyong\source\repos\UNITYST\InvenSystem\obj\Debug\netcoreapp3.1\InvenSystem.pdb
+C:\Users\Huiyong\source\repos\UNITYST\InvenSystem\obj\Debug\netcoreapp3.1\InvenSystem.genruntimeconfig.cache
+C:\Users\Huiyong\source\repos\UNITYST\InvenSystem\obj\Debug\netcoreapp3.1\InvenSystem.csprojAssemblyReference.cache

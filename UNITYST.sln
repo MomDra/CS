@@ -15,9 +15,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "26Property", "26Property\26
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "28Partial", "28Partial\28Partial.csproj", "{4763AA09-09AA-4884-B993-C9D391178DF2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "30Overriding", "30Overriding\30Overriding.csproj", "{BB9176F3-C828-4131-BB34-19F610868775}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "30Overriding", "30Overriding\30Overriding.csproj", "{BB9176F3-C828-4131-BB34-19F610868775}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "31Interface", "31Interface\31Interface.csproj", "{3967D6F6-4703-4552-960F-4546A520B556}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "31Interface", "31Interface\31Interface.csproj", "{3967D6F6-4703-4552-960F-4546A520B556}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvenSystem", "InvenSystem\InvenSystem.csproj", "{3ABABC7A-AFB2-4461-A2E0-A3A8C6D3269C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{3967D6F6-4703-4552-960F-4546A520B556}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3967D6F6-4703-4552-960F-4546A520B556}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3967D6F6-4703-4552-960F-4546A520B556}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3ABABC7A-AFB2-4461-A2E0-A3A8C6D3269C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ABABC7A-AFB2-4461-A2E0-A3A8C6D3269C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ABABC7A-AFB2-4461-A2E0-A3A8C6D3269C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ABABC7A-AFB2-4461-A2E0-A3A8C6D3269C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
