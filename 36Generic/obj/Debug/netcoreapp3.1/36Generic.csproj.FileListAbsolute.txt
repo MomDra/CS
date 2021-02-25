@@ -1,0 +1,13 @@
+C:\Users\Huiyong\source\repos\UNITYST\36Generic\obj\Debug\netcoreapp3.1\36Generic.AssemblyInfoInputs.cache
+C:\Users\Huiyong\source\repos\UNITYST\36Generic\obj\Debug\netcoreapp3.1\36Generic.AssemblyInfo.cs
+C:\Users\Huiyong\source\repos\UNITYST\36Generic\obj\Debug\netcoreapp3.1\36Generic.csproj.CoreCompileInputs.cache
+C:\Users\Huiyong\source\repos\UNITYST\36Generic\bin\Debug\netcoreapp3.1\36Generic.exe
+C:\Users\Huiyong\source\repos\UNITYST\36Generic\bin\Debug\netcoreapp3.1\36Generic.deps.json
+C:\Users\Huiyong\source\repos\UNITYST\36Generic\bin\Debug\netcoreapp3.1\36Generic.runtimeconfig.json
+C:\Users\Huiyong\source\repos\UNITYST\36Generic\bin\Debug\netcoreapp3.1\36Generic.runtimeconfig.dev.json
+C:\Users\Huiyong\source\repos\UNITYST\36Generic\bin\Debug\netcoreapp3.1\36Generic.dll
+C:\Users\Huiyong\source\repos\UNITYST\36Generic\bin\Debug\netcoreapp3.1\36Generic.pdb
+C:\Users\Huiyong\source\repos\UNITYST\36Generic\obj\Debug\netcoreapp3.1\36Generic.dll
+C:\Users\Huiyong\source\repos\UNITYST\36Generic\obj\Debug\netcoreapp3.1\36Generic.pdb
+C:\Users\Huiyong\source\repos\UNITYST\36Generic\obj\Debug\netcoreapp3.1\36Generic.genruntimeconfig.cache
+C:\Users\Huiyong\source\repos\UNITYST\36Generic\obj\Debug\netcoreapp3.1\36Generic.csprojAssemblyReference.cache
