@@ -10,3 +10,4 @@ C:\Users\Huiyong\source\repos\UNITYST\30Overriding\obj\Debug\netcoreapp3.1\30Ove
 C:\Users\Huiyong\source\repos\UNITYST\30Overriding\obj\Debug\netcoreapp3.1\30Overriding.dll
 C:\Users\Huiyong\source\repos\UNITYST\30Overriding\obj\Debug\netcoreapp3.1\30Overriding.pdb
 C:\Users\Huiyong\source\repos\UNITYST\30Overriding\obj\Debug\netcoreapp3.1\30Overriding.genruntimeconfig.cache
+C:\Users\Huiyong\source\repos\UNITYST\30Overriding\obj\Debug\netcoreapp3.1\30Overriding.csprojAssemblyReference.cache

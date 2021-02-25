@@ -20,7 +20,7 @@ namespace _30Overriding
         public override int getAT()
         {
             Console.WriteLine("Player의 함수");
-
+            
             return AT + ItemAt;
         }
     }
